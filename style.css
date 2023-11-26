@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Barlow+Condensed:wght@400;700&family=Fraunces:opsz,wght@9..144,700&family=Inter:wght@400;700&family=Kumbh+Sans:wght@400;700&family=Lexend+Deca&family=Manrope:wght@500;700&family=Montserrat:ital,wght@1,500;1,700&family=Open+Sans&family=Outfit:wght@300;400;600&family=Poppins:wght@400;500;600;700&family=Public+Sans:wght@300;400;700&display=swap');
+
+
+:root{
+
+    --dark-blue: hsl(233, 26%, 24%);
+    --lime-green: hsl(136, 65%, 51%);
+    --bright-cyan: hsl(192, 70%, 51%);
+    --grayish-blue: hsl(233, 8%, 62%);
+    --light-grayish-blue: hsl(220, 16%, 96%);
+    --very-light-gray: hsl(0, 0%, 98%);
+    --white: hsl(0, 0%, 100%);
+}
+
+body{
+    font-family: 'Public Sans', sans-serif;
+}
+
+
+footer{
+    background-color: var(--dark-blue);
+    
+}
+
+
